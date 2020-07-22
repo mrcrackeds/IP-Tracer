@@ -12,7 +12,7 @@ ls
 
 unzip IP-Tracer-master.zip
 
-cd IP-Tracer-master.zip
+cd IP-Tracer-master
 
 ls
 
